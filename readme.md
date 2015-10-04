@@ -1,6 +1,7 @@
-# PAF the project
+# POE projects
 
-> Boilerplate generators to kickstart new projects, fueled by best practices
+> Boilerplate generators to kickstart new projects, fueled by best practices.
+> Probably Over Engineered.
 
 
 ## Generators
@@ -22,16 +23,16 @@ Yeoman travels light. He didn't pack any generators when he moved in. You can
 think of a generator like a plug-in. You get to choose what type of application
 you wish to create, such as a Backbone application or even a Chrome extension.
 
-To install generator-paf from npm, run:
+To install generator-poe from npm, run:
 
 ```bash
-npm install -g generator-paf
+npm install -g generator-poe
 ```
 
 Finally, initiate the generator:
 
 ```bash
-yo paf
+yo poe
 ```
 
 
@@ -54,7 +55,7 @@ npm install -g yo generator-generator
 ```
 
 
-[1]: ./golang
+[1]: ./generators/golang
 [2]: https://circleci.com/
 [3]: https://gitlab.com/
 [4]: http://yeoman.io/authoring/

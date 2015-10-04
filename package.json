@@ -1,10 +1,10 @@
 {
-  "name": "generator-paf",
+  "name": "generator-poe",
   "version": "0.1.0",
   "description": "Yeoman generator to kickstart new projects",
   "license": "MIT",
   "main": "app/index.js",
-  "repository": "hackliff/generator-paf",
+  "repository": "hackliff/generator-poe",
   "author": {
     "name": "hackliff",
     "email": "xavier.bruhiere@gmail.com",
