@@ -1,0 +1,30 @@
+{
+  "name": "generator-paf",
+  "version": "0.1.0",
+  "description": "Yeoman generator to kickstart new projects",
+  "license": "MIT",
+  "main": "app/index.js",
+  "repository": "hackliff/generator-paf",
+  "author": {
+    "name": "hackliff",
+    "email": "xavier.bruhiere@gmail.com",
+    "url": "https://github.com/hackliff"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.19.0",
+    "chalk": "^1.0.0",
+    "yosay": "^1.0.2"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
